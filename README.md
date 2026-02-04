@@ -1,6 +1,6 @@
 # 💫 MineScriptMage
 
-# 👋 Hello, I'm Oghenemine Emmanuel
+# 👋 Hi there, I'm Oghenemine Emmanuel
 Oghenemine Emmanuel is a Software Engineer specializing <br>in cross-platform mobile and full-stack web development. <br>He builds scalable, high-performance applications for Android, iOS, <br>and the web using Flutter & Dart, as well as the <br>MERN stack (React, Node.js, MongoDB) with JavaScript and TypeScript. <br>He focuses on clean architecture, maintainable code, and <br>developer-friendly SDK design, and has experience integrating <br>Firebase, real-time systems, and AI-powered features.<br>
 
 
